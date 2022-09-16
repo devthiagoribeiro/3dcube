@@ -1,1 +1,1 @@
-Dado 3d cirado apenas com html e css
+Dado 3d que o usuário interage por botões cirado apenas com html e css.
